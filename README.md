@@ -22,7 +22,7 @@ CentOS 7 comes with `Python 2` by default. So we need `Python 3` to be installed
 
 ```
 $ cd /home/roboshop
-$ curl -L -s -o /tmp/payment.zip "https://github.com/roboshop-devops-project/payment/archive/main.zip"
+$ curl -L -s -o /tmp/payment.zip "https://github.com/rshaik4devops/payment/archive/main.zip"
 $ unzip /tmp/payment.zip
 $ mv payment-main payment
 ```
