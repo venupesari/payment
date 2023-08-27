@@ -9,7 +9,7 @@ CentOS 7 comes with `Python 2` by default. So we need `Python 3` to be installed
 1. Install Python 3
 
 ```
-# yum install python36 gcc python3-devel -y
+# yum install python python3-pip gcc python3-devel -y
 ```
 
 2. Create a user for running the application 
