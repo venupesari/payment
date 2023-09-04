@@ -4,7 +4,7 @@ This service is responsible for payments in RoboShop e-commerce app.
 
 This service is written on `Python 3`, So need it to run this app.
 
-CentOS 7 comes with `Python 2` by default. So we need `Python 3` to be installed.
+CentOS 7 comes with `Python 3` by default. So we need `Python 3` to be installed.
 
 1. Install Python 3
 
