@@ -1,6 +1,6 @@
 # Payment Service 
 
-This service is responsible for payments in RoboShop e-commerce app.
+This service is responsible for payments in RoboShop e-commerce app. While creating Ec2 instance please select Devops-Practice AMI From Communicty AMIS.
 
 This service is written on `Python 3.6`, So need it to run this app.
 
