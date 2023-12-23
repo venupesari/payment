@@ -9,7 +9,7 @@ CentOS 7 comes with `Python 3` by default. So we need `Python 3` to be installed
 1. Install Python 3
 
 ```
-# yum install python python3-pip gcc python3-devel -y
+# yum install python36 gcc python3-devel -y
 ```
 
 2. Create a user for running the application 
@@ -31,7 +31,7 @@ $ mv payment-main payment
 
 ```
 # cd /home/roboshop/payment 
-# pip3 install -r requirements.txt
+# pip3.6 install -r requirements.txt
 ```
 
 **Note: Above command may fail with permission denied, So run as root user**
