@@ -1,4 +1,5 @@
 # Payment Service 
+# From Git Bash push
 
 This service is responsible for payments in RoboShop e-commerce app. While creating Ec2 instance please select Devops-Practice AMI From Communicty AMIS.
 
